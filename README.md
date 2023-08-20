@@ -12,7 +12,7 @@ Neste estágio, estamos explorando e refinando conceitos para criar uma software
 
 </div>
 
-## 🧬  Sobre Nós
+## 🧬 Sobre Nós
 
 No Coollab.dev, nossa visão é construir um ambiente onde a tecnologia e a criatividade se unem para criar soluções excepcionais. Estamos nos esforçando para criar uma empresa que atenda às necessidades em constante evolução do mundo digital.
 
